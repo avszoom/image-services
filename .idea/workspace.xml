@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29c4b9b7-bb11-48ce-9260-c1d7843d0fb4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AnnotationProcessorTemplate/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AnnotationProcessorTemplate/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnnotationProcessorTemplate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AnnotationProcessorTemplate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnnotationProcessorTemplate/src/Annotation/XMLAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnnotationProcessorTemplate/src/Annotation/XMLAnnotationProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnnotationProcessorTemplate/src/TestFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Covid/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Covid/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/CovidConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/CovidConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/POJO/Saying.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/POJO/Saying.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/health/ConfigurationHealthCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/health/ConfigurationHealthCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/resources/ControlResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/resources/ControlResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/Espresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/HouseBlend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/ObserverPattern/Observer/DisplayStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/ObserverPattern/Observer/DisplayStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/ObserverPattern/Observer/IObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/ObserverPattern/Observer/IObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/ObserverPattern/Observer/RadioStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/ObserverPattern/Observer/RadioStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/ObserverPattern/Subject/ISubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/ObserverPattern/Subject/ISubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/ObserverPattern/Subject/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/ObserverPattern/Subject/Weather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/BlueheadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/BlueheadDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/GreyHeadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/GreyHeadDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/RedheadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/RedheadDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/fly/DifferentFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/fly/DifferentFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/fly/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/fly/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/fly/IFlyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/fly/IFlyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/fly/NoFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/StrategyPattern/fly/NoFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservices-actuator/src/main/java/com/avszoom/io/microservicesactuator/service/DepartmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microservices-actuator/src/main/java/com/avszoom/io/microservicesactuator/service/DepartmentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socket-architecture/socketArch/server/src/main/java/org/avszoom/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../socket-architecture/socketArch/server/src/main/java/org/avszoom/WorkerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security/microservice-security/src/main/java/com/avszoom/in/microservicesecurity/resources/HomeResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security/microservice-security/src/main/java/com/avszoom/in/microservicesecurity/resources/HomeResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Advance/MyInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Advance/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Advance/SingletonClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Advance/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Basic/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Basic/FinalClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Basic/Office.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Basic/SocialNetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/BasicTechnique/BitManipulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/BasicTechnique/DynamicProgramming.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/BasicTechnique/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/BasicTechnique/PrefixSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/BasicTechnique/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/DataStructure/BasicStructure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/FileHandling/FileReading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/BuilderPattern/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/CommandPattern/Command/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/CommandPattern/Command/LightOffCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/CommandPattern/Command/LightOnCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/CommandPattern/Command/NoCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/CommandPattern/Command/TvOffCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/CommandPattern/Command/TvOnCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/CommandPattern/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/CommandPattern/RemoteControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/CommandPattern/Vendor/Light.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/CommandPattern/Vendor/Tv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/FactoryPattern/DebitPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/FactoryPattern/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/FactoryPattern/IPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/FactoryPattern/UPIPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Pattern/VisitorPattern/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/RecTree/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/RecTree/Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/java8/Honda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/java8/IVehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/java8/OptionalClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/java8/lambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/AdvanceGuice/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/Collections/ListStructure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/Collections/StreamClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/GuiceImpl/ConfigureModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/GuiceImpl/GuiceMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/GuiceImpl/Iface/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/GuiceImpl/Impl/Ford.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/GuiceImpl/Impl/Toyota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/GuiceImpl/Providers/CarProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/JavaConcepts/DownloadURLS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/JavaConcepts/FIleReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/JavaConcepts/TestingConcepts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/ThreadModel/ThreadBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/java8/FIfacePredicate.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/image-uploader-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="image-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="image-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="image-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="image-app" type="462c0819:PsiDirectoryNode" />
+              <item name="image-uploader-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="image-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="image-app" type="462c0819:PsiDirectoryNode" />
+              <item name="image-uploader-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29c4b9b7-bb11-48ce-9260-c1d7843d0fb4" name="Default Changelist" comment="" />
+      <created>1624597989300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624597989300</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info active="true" anchor="right" id="Maven" visible="true" weight="0.3297568" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/image-uploader-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
