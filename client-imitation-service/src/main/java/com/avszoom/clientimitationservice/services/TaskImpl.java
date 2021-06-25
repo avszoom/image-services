@@ -24,7 +24,7 @@ public class TaskImpl implements Task {
     @Override
     public String executeTask(String threadId) {
         Random r = new Random();
-        Image img = restTemplate.getForObject(imageServiceUrl + r.nextLong(), Image.class);
+        Image img = restTemplate.getForObject(imageServiceUrl + r.nextInt(5), Image.class);
         return "fetched Image: " + img.getName();
     }
 }
