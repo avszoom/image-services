@@ -1,8 +1,11 @@
-package com.avszoom.imageuploaderservice.models;
+package com.avszoom.timelineservice.models;
 
 import org.hibernate.annotations.GenericGenerator;
 
-import javax.persistence.*;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Lob;
 
 @Entity
 public class Image {
@@ -11,6 +14,7 @@ public class Image {
     @GeneratedValue(generator = "uuid")
     @GenericGenerator(name = "uuid", strategy = "uuid2")
     String uuid;
+
 
     String name;
 
@@ -59,4 +63,5 @@ public class Image {
     public void setData(byte[] data) {
         this.data = data;
     }
+
 }

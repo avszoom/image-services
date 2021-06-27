@@ -1,13 +1,13 @@
 package com.avszoom.imageuploaderservice.controllers;
 
 import com.avszoom.imageuploaderservice.models.Image;
+import com.avszoom.imageuploaderservice.models.ImageList;
 import com.avszoom.imageuploaderservice.services.ImageService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
+import org.springframework.web.multipart.MultipartFile;
 
-import java.util.logging.Level;
+import java.util.List;
 import java.util.logging.Logger;
 
 @RestController
@@ -22,9 +22,13 @@ public class ImageUploadController {
         return "image-uploader-service";
     }
 
-    @GetMapping("/image/{id}")
-    public Image getServiceName(@PathVariable("id") Integer id) {
-        log.log(Level.INFO, "fetching Image for Id : " + id);
-        return imageService.getImage(id);
+    @PostMapping("/uploadImage")
+    public String uploadImage(@RequestParam("file") MultipartFile file) {
+        return imageService.uploadImage(file);
+    }
+
+    @GetMapping("/images/{username}")
+    public ImageList uploadImage(@PathVariable("username") String user) {
+        return imageService.getImages(user);
     }
 }

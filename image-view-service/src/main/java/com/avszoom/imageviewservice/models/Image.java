@@ -1,31 +1,21 @@
-package com.avszoom.imageuploaderservice.models;
+package com.avszoom.imageviewservice.models;
 
-import org.hibernate.annotations.GenericGenerator;
-
-import javax.persistence.*;
-
-@Entity
 public class Image {
 
-    @Id
-    @GeneratedValue(generator = "uuid")
-    @GenericGenerator(name = "uuid", strategy = "uuid2")
     String uuid;
 
     String name;
 
     String user;
 
-    @Lob
-    byte[] data;
 
     public Image() {
     }
 
-    public Image( String name, String user, byte[] data) {
+    public Image(String uuid, String name, String user) {
+        this.uuid = uuid;
         this.name = name;
         this.user = user;
-        this.data = data;
     }
 
     public String getUuid() {
@@ -52,11 +42,4 @@ public class Image {
         this.user = user;
     }
 
-    public byte[] getData() {
-        return data;
-    }
-
-    public void setData(byte[] data) {
-        this.data = data;
-    }
 }
