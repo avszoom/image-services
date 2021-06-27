@@ -1,5 +1,6 @@
 package com.avszoom.imageviewservice;
 
+import brave.sampler.Sampler;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.client.RestTemplateBuilder;
@@ -11,6 +12,11 @@ import org.thymeleaf.templateresolver.ServletContextTemplateResolver;
 
 @SpringBootApplication
 public class ImageViewServiceApplication {
+
+	@Bean
+	public Sampler defaultSampler() {
+		return Sampler.ALWAYS_SAMPLE;
+	}
 
 	@Bean
 	public RestTemplate restTemplate(RestTemplateBuilder builder) {

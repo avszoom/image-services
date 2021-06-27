@@ -3,6 +3,8 @@ package com.avszoom.imageviewservice.controllers;
 import com.avszoom.imageviewservice.models.Image;
 import com.avszoom.imageviewservice.models.ImageList;
 import com.avszoom.imageviewservice.services.ImageViewService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
@@ -16,6 +18,8 @@ import java.util.List;
 
 @Controller
 public class ImageViewController {
+
+    private final Logger LOG = LoggerFactory.getLogger(this.getClass());
 
     @Autowired
     ImageViewService imageViewService;
@@ -34,12 +38,14 @@ public class ImageViewController {
 
     @GetMapping("/uploadImage")
     public String getUploadImgePage(Model model){
+        LOG.info("Fetching Uploading Image Page.....");
         model.addAttribute("url", imageUploadUrl + "uploadImage");
         return "image-upload.html";
     }
 
     @GetMapping("/timeline")
     public String getTimeLine(Model model){
+        LOG.info("Fetching Timeline Page.....");
         ImageList images  = imageViewService.getImages("system");
         model.addAttribute("images", images);
         model.addAttribute("url", imageServiceUrl + "image/");
